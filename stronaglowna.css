@@ -1,0 +1,19 @@
+#nag1{
+  text-align: center;
+  color: red;
+}
+body{
+  background-color: black;
+}
+
+p{
+  color: red;
+  text-align: center;
+}
+hr{
+  border-color: red;
+}
+img{
+  border-color: red;
+  border-style: solid;
+}
